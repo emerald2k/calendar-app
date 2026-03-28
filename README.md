@@ -3,7 +3,8 @@
 A high-performance, responsive calendar and real-time clock web application. This project was built to practice modern frontend workflows, including automated builds, code minification, and continuous deployment.
 
 ## 🚀 Live Demo
-[View the Live Project on Netlify](https://your-site-name.netlify.app)
+[View the Live Project on Netlify](https://emerald-calendar.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5e3937f-490d-4162-8f48-71f063097b9b/deploy-status)](https://app.netlify.com/projects/emerald-calendar/deploys)
 
 ## ✨ Key Features
 - **Real-time Digital Clock:** Updates every second with a smooth reveal animation.
